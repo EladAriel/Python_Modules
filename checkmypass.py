@@ -1,3 +1,7 @@
+"""
+This script has been written based on the "Complete Python Developer in 2022: Zero to Mastery" course.
+"""
+
 # Import libraries
 import requests
 import hashlib
